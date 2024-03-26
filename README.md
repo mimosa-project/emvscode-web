@@ -1,4 +1,4 @@
-# emvscode-web(Under development)
+# emvscode-web (Under development)
 * VSCode for the Web Extension for Mizar
 
 ## Note
