@@ -2,8 +2,8 @@
     "name": "emvscode-web",
     "displayName": "emvscode-web",
     "description": "A web extension for VS Code which provides support for the Mizar language.",
-    "version": "0.0.1",
-    "publisher": "",
+    "version": "1.0.0",
+    "publisher": "Ryutaro-Matsumoto",
     "engines": {
         "vscode": "^1.66.0"
     },
